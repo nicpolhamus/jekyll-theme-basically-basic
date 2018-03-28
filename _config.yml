@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: "Nicolas' blog"
+title: Nicolas blog
 email: polhamus.n@outlook.com
 description: "A blog about programming, video games, and a few other things"
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: "https://nicpolhamus.github.io"
 author:
   name: Nicolas Polhamus
   twitter: muffinthekid
   picture:
-twitter_username: @muffinthekid
+twitter_username: muffinthekid
 github_username: nicpolhamus
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
