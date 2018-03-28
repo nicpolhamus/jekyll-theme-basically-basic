@@ -16,9 +16,9 @@
 lang: en-US
 title: Nicolas' blog
 email: polhamus.n@outlook.com
-description: A blog about programming, video games, and a few other things
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://nicpolhamus.github.io
+description: "A blog about programming, video games, and a few other things"
+baseurl: ""# the optional subpath of your site, e.g. "/blog"
+url: "https://nicpolhamus.github.io"
 author:
   name: Nicolas Polhamus
   twitter: muffinthekid
