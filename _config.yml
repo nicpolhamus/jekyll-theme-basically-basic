@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Nicolas Polhamus: a few words here and there
+title: Nicolas' blog
 email: polhamus.n@outlook.com
 description: A blog about programming, video games, and a few other things
 baseurl: # the optional subpath of your site, e.g. "/blog"
